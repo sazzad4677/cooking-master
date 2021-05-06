@@ -1,0 +1,26 @@
+html,body {
+    height: 100%;
+    color:red;
+  }
+#full-title{
+    color: #3B2D64;
+    font-weight: 700
+}
+.search-btn {
+    color: white;
+    background-color: #3B2D64;
+}
+.meal-title{
+    text-align: center;
+    margin-top: 10px;
+}
+#ingredients-title{
+    color: pure black;
+    font-weight: bolder;
+}
+li{
+    font-size: large;
+}
+ul{
+    list-style-type:none;
+}
